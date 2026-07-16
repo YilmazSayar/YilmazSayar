@@ -1,16 +1,19 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**YilmazSayar/YilmazSayar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Building things that matter
+### Crafting scalable & performant systems
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🤷‍♂️ About Me
+
+An engineer-in-training combining software with AI and machine learning. I work on backend systems, API design and modern web.
+
+```javascript
+const yilmazsayar = {
+    role: "Full-Stack Developer",
+    passions: ["Clean Code", "System Design", "User Experience", "Continuous Learning", "High Scale Systems"],
+    connectWithMe: "hire" | "just chat" | "help" | "teach"
+}
