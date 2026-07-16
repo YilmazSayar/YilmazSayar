@@ -7,12 +7,6 @@
   </a>
 </p>
 
-<div align="center">
-
-# Merhaba, Ben Yılmaz Sayar 👋
-### Yazılım Mühendisi & Backend Geliştirici
-
-</div>
 
 ---
 
