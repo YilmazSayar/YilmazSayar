@@ -81,7 +81,7 @@ const yilmazSayar = {
   <a href="https://yilmazsayar.com" target="_blank">
     <img src="https://img.shields.io/badge/Website-667eea?style=for-the-badge&logo=firefox&logoColor=white&labelColor=1a1a2e" alt="Website" />
   </a>
-  <a href="https://linkedin.com/in/YilmazSayar" target="_blank">
+  <a href="https://linkedin.com/in/yılmaz-sayar" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a2e" alt="LinkedIn" />
   </a>
   <a href="mailto:sayaryilmaz2004@gmail.com" target="_blank">
