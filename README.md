@@ -10,9 +10,9 @@
 
 ---
 
-## 🤷‍♂️ Hakkımda
+## 🤷‍♂️ About Me
 
-Sistemlerin arka planını tasarlamaktan, sürdürülebilir ve performanslı mimariler kurmaktan keyif alan bir bilgisayar mühendisliği öğrencisiyim. Karmaşık problemleri temiz, okunabilir ve ölçeklenebilir kodlara dönüştürmek için çalışıyorum.
+I am a Computer Engineering student obsessed with learning and actively building my own systems. Thanks to my skeptical approach, I diagnose problems early and engineer creative solutions.
 
 ```javascript
 const yilmazSayar = {
