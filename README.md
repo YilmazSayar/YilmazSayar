@@ -124,15 +124,13 @@ const yilmazSayar = {
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telephone.png" alt="contact" width="28" /> Connect With Me
 
 <p align="center">
-  <a href="https://yilmazsayar.com" target="_blank">
-    <img src="https://img.shields.io/badge/Website-667eea?style=for-the-badge&logo=firefox&logoColor=white&labelColor=1a1a2e" alt="Website" />
-  </a>
-  <a href="https://linkedin.com/in/yılmaz-sayar" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a2e" alt="LinkedIn" />
-  </a>
-  <a href="mailto:sayaryilmaz2004@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a2e" alt="Gmail" />
-  </a>
+  <a href="https://yilmazsayar.com" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=safari" width="48" alt="Website" /></a>
+  &nbsp;&nbsp;
+  <a href="https://linkedin.com/in/yılmaz-sayar" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=linkedin" width="48" alt="LinkedIn" /></a>
+  &nbsp;&nbsp;
+  <a href="mailto:sayaryilmaz2004@gmail.com" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=gmail" width="48" alt="Gmail" /></a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/YilmazSayar" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=github" width="48" alt="GitHub" /></a>
 </p>
 
 <br />
@@ -147,14 +145,11 @@ const yilmazSayar = {
 <!-- ======================= AI TEAM ======================= -->
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" alt="ai" width="28" /> I'm Not Alone — My AI Team
 
-<p align="center">
-  <i>"Tek başıma değilim, 5 kişilik büyük bir ekibiz..."</i>
-</p>
 
 <p align="center">I love building with AI. These are my daily co-pilots that make me a one-person army 🚀</p>
 
 <p align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=chatgpt,claude,gemini,githubcopilot" alt="AI tools" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=chatgpt,claude,gemini,cursor" alt="AI tools" />
 </p>
 
 ---
