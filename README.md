@@ -24,7 +24,7 @@
 <!-- ======================= ABOUT ME ======================= -->
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Technologist.png" alt="about" width="28" /> About Me
 
-<img align="right" width="340" src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" alt="coding gif" />
+<img align="right" width="340" src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" alt="fast coding gif" />
 
 I am a **Computer Engineering** student obsessed with learning and actively building my own systems. Thanks to my skeptical approach, I diagnose problems early and engineer creative solutions.
 
