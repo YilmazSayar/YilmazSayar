@@ -2,7 +2,7 @@
 <a name="top"></a>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:6B46C1&height=220&section=header&text=Yilmaz%20Sayar&fontSize=68&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20%7C%20System%20Design%20%7C%20Clean%20Code&descAlignY=58&descSize=18" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:6B46C1&height=220&section=header&text=Y%C4%B1lmaz%20Sayar&fontSize=68&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20%7C%20System%20Design%20%7C%20Clean%20Code&descAlignY=58&descSize=18" alt="header" />
 </p>
 
 <!-- ======================= TYPING ANIMATION ======================= -->
@@ -24,7 +24,7 @@
 <!-- ======================= ABOUT ME ======================= -->
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Technologist.png" alt="about" width="28" /> About Me
 
-<img align="right" width="330" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="coding" />
+<img align="right" width="340" src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" alt="coding gif" />
 
 I am a **Computer Engineering** student obsessed with learning and actively building my own systems. Thanks to my skeptical approach, I diagnose problems early and engineer creative solutions.
 
@@ -145,6 +145,9 @@ const yilmazSayar = {
 <!-- ======================= AI TEAM ======================= -->
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" alt="ai" width="28" /> I'm Not Alone — My AI Team
 
+<p align="center">
+  <i>"Tek başıma değilim, 5 kişilik büyük bir ekibiz..."</i>
+</p>
 
 <p align="center">I love building with AI. These are my daily co-pilots that make me a one-person army 🚀</p>
 
