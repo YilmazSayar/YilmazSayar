@@ -52,39 +52,27 @@ const yilmazSayar = {
 
 ### Languages
 <p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000&labelColor=1a1a2e" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff&labelColor=1a1a2e" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=c-sharp&logoColor=fff&labelColor=1a1a2e" alt="C#" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=fff&labelColor=1a1a2e" alt="Python" />
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=fff&labelColor=1a1a2e" alt="Java" />
+  <img src="https://skillicons.dev/icons?i=js,ts,cs,py,java" alt="languages" />
 </p>
 
 ### Frontend
 <p>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000&labelColor=1a1a2e" alt="React" />
-  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=000&labelColor=1a1a2e" alt="React Native" />
-  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=fff&labelColor=1a1a2e" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=fff&labelColor=1a1a2e" alt="Vue.js" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=react,reactnative,tailwind,vue" alt="frontend" />
 </p>
 
 ### Backend & APIs
 <p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=fff&labelColor=1a1a2e" alt="Node.js" />
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=fff&labelColor=1a1a2e" alt=".NET" />
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=fff&labelColor=1a1a2e" alt="Spring" />
+  <img src="https://skillicons.dev/icons?i=nodejs,dotnet,spring" alt="backend" />
 </p>
 
 ### Databases & Services
 <p>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=fff&labelColor=1a1a2e" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/MSSQL-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=fff&labelColor=1a1a2e" alt="MSSQL" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=postgres,sqlserver" alt="databases" />
 </p>
 
 ### DevOps & Tools
 <p>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=fff&labelColor=1a1a2e" alt="Docker" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=fff&labelColor=1a1a2e" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=fff&labelColor=1a1a2e" alt="GitHub" />
+  <img src="https://skillicons.dev/icons?i=docker,git,github" alt="devops" />
 </p>
 
 ---
@@ -159,6 +147,9 @@ const yilmazSayar = {
 <!-- ======================= AI TEAM ======================= -->
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" alt="ai" width="28" /> I'm Not Alone — My AI Team
 
+<p align="center">
+  <i>"Tek başıma değilim, 5 kişilik büyük bir ekibiz..."</i>
+</p>
 
 <p align="center">I love building with AI. These are my daily co-pilots that make me a one-person army 🚀</p>
 
