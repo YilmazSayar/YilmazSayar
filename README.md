@@ -159,9 +159,6 @@ const yilmazSayar = {
 <!-- ======================= AI TEAM ======================= -->
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" alt="ai" width="28" /> I'm Not Alone — My AI Team
 
-<p align="center">
-  <i>"Tek başıma değilim, 5 kişilik büyük bir ekibiz..."</i>
-</p>
 
 <p align="center">I love building with AI. These are my daily co-pilots that make me a one-person army 🚀</p>
 
