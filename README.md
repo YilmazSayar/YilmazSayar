@@ -154,11 +154,7 @@ const yilmazSayar = {
 <p align="center">I love building with AI. These are my daily co-pilots that make me a one-person army 🚀</p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/YS-Team_Lead-667eea?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e" alt="YS" />
-  <img src="https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white&labelColor=1a1a2e" alt="ChatGPT" />
-  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white&labelColor=1a1a2e" alt="Claude" />
-  <img src="https://img.shields.io/badge/Gemini-886FBF?style=for-the-badge&logo=googlegemini&logoColor=white&labelColor=1a1a2e" alt="Gemini" />
-  <img src="https://img.shields.io/badge/Copilot-6E40C9?style=for-the-badge&logo=githubcopilot&logoColor=white&labelColor=1a1a2e" alt="GitHub Copilot" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=chatgpt,claude,gemini,githubcopilot" alt="AI tools" />
 </p>
 
 ---
