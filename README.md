@@ -94,7 +94,7 @@ const yilmazSayar = {
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=YilmazSayar&show_icons=true&count_private=true&hide_border=true&title_color=667eea&icon_color=764ba2&text_color=c9d1d9&bg_color=0d1117" alt="stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=YilmazSayar&hide_border=true&background=0d1117&stroke=667eea&ring=764ba2&fire=6B46C1&currStreakLabel=667eea&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" alt="streak" />
+  <img width="49%" src="https://streak-stats.demolab.com/?user=YilmazSayar&hide_border=true&background=0d1117&stroke=667eea&ring=764ba2&fire=6B46C1&currStreakLabel=667eea&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" alt="streak" />
 </p>
 
 <p align="center">
@@ -153,6 +153,27 @@ const yilmazSayar = {
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Growing%20Heart.png" alt="thanks" width="22" />
   <i>Thanks for stopping by — let's build something great together!</i>
 </p>
+
+---
+
+<!-- ======================= AI TEAM ======================= -->
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" alt="ai" width="28" /> I'm Not Alone — My AI Team
+
+<p align="center">
+  <i>"Tek başıma değilim, 5 kişilik büyük bir ekibiz..."</i>
+</p>
+
+<p align="center">I love building with AI. These are my daily co-pilots that make me a one-person army 🚀</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/YS-Team_Lead-667eea?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e" alt="YS" />
+  <img src="https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white&labelColor=1a1a2e" alt="ChatGPT" />
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white&labelColor=1a1a2e" alt="Claude" />
+  <img src="https://img.shields.io/badge/Gemini-886FBF?style=for-the-badge&logo=googlegemini&logoColor=white&labelColor=1a1a2e" alt="Gemini" />
+  <img src="https://img.shields.io/badge/Copilot-6E40C9?style=for-the-badge&logo=githubcopilot&logoColor=white&labelColor=1a1a2e" alt="GitHub Copilot" />
+</p>
+
+---
 
 <!-- ======================= FOOTER ======================= -->
 <p align="center">
