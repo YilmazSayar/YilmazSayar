@@ -112,7 +112,6 @@ const yilmazSayar = {
 <br />
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Growing%20Heart.png" alt="thanks" width="22" />
   <i>Thanks for stopping by — let's build something great together!</i>
 </p>
 
