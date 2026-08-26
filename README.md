@@ -22,7 +22,7 @@
 ---
 
 <!-- ======================= ABOUT ME ======================= -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Technologist.png" alt="about" width="28" /> About Me
+
 
 <img align="right" width="340" src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" alt="fast coding gif" />
 
