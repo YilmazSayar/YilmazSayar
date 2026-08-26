@@ -22,7 +22,7 @@
 ---
 
 <!-- ======================= ABOUT ME ======================= -->
- About Me
+ /> About Me
 
 <img align="right" width="340" src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" alt="fast coding gif" />
 
