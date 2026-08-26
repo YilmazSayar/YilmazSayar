@@ -77,32 +77,8 @@ const yilmazSayar = {
 
 ---
 
-<!-- ======================= GITHUB STATS ======================= -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="stats" width="28" /> GitHub Analytics
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=YilmazSayar&show_icons=true&count_private=true&hide_border=true&title_color=667eea&icon_color=764ba2&text_color=c9d1d9&bg_color=0d1117" alt="stats" />
-  <img width="49%" src="https://streak-stats.demolab.com/?user=YilmazSayar&hide_border=true&background=0d1117&stroke=667eea&ring=764ba2&fire=6B46C1&currStreakLabel=667eea&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" alt="streak" />
-</p>
 
-<p align="center">
-  <img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YilmazSayar&layout=compact&hide_border=true&title_color=667eea&text_color=c9d1d9&bg_color=0d1117&langs_count=8" alt="top languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YilmazSayar&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="trophies" />
-</p>
-
----
-
-<!-- ======================= ACTIVITY GRAPH ======================= -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sparkles.png" alt="activity" width="28" /> Contribution Activity
-
-<p align="center">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=YilmazSayar&bg_color=0d1117&color=667eea&line=764ba2&point=ffffff&area=true&hide_border=true" alt="activity graph" />
-</p>
-
----
 
 <!-- ======================= CONTRIBUTION SNAKE ======================= -->
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" alt="snake" width="28" /> Contribution Snake
